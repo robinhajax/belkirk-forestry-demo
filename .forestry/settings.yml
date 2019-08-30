@@ -15,6 +15,10 @@ sections:
   label: Pages
   create: all
   templates:
+  - project
+  - information-yml
+  - person
+  - landing-page
   - default
 upload_dir: uploads
 public_path: "/uploads"
