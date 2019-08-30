@@ -9,6 +9,8 @@ footer:
   parent: item_5W37Zsd
   title: Hi, Hi, Hi
 - weight: 3
+  identifier: item_5W37Zsd
+  url: www.sandra.com/disco
   parent: item_5yzPV4E
   title: Disco
 - url: www.sandra.com/maria-magdalena
@@ -20,4 +22,6 @@ footer:
   parent: item_5yzPV4E
   title: Around My Heart
 - weight: 4
+  identifier: item_5yzPV4E
+  url: www.sandra.com/main
   title: Sandra
