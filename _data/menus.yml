@@ -1,0 +1,6 @@
+---
+footer:
+- url: www.sandra.com
+  weight: 1
+  parent: _about
+  title: SandraAroundMyHeart
