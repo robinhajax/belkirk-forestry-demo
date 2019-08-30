@@ -1,6 +1,23 @@
 ---
 footer:
-- url: www.sandra.com
+- url: www.sandra.com/loreen
+  weight: 2
+  parent: item_5W37Zsd
+  title: Loreen
+- url: www.sandra.com/hihihi
   weight: 1
-  parent: _about
-  title: SandraAroundMyHeart
+  parent: item_5W37Zsd
+  title: Hi, Hi, Hi
+- weight: 3
+  parent: item_5yzPV4E
+  title: Disco
+- url: www.sandra.com/maria-magdalena
+  weight: 2
+  parent: item_5yzPV4E
+  title: Maria Madgalena
+- url: www.sandra.com/around-myheart
+  weight: 1
+  parent: item_5yzPV4E
+  title: Around My Heart
+- weight: 4
+  title: Sandra
