@@ -1,5 +1,12 @@
 ---
 footer:
+- url: www.jrush.com/tpol
+  weight: 1
+  parent: item_bEmGrNH
+  title: The Power Of Love
+- url: www.jrush.com
+  weight: 5
+  title: Jennifer Rush
 - url: www.sandra.com/loreen
   weight: 2
   parent: item_5W37Zsd
